@@ -1,0 +1,22 @@
+create a script to create a teble in mysql
+
+the first table is a table to save a times of footbol
+
+
+connect to tables with FOREIGN KEY
+
+
+the first table: tbl_times
+- id
+- time 
+- pais 
+- campeonato
+
+
+the secund table: tbl_jogadores
+- id
+- nome
+- posicao
+- idade
+- numero_camisa
+- id_time (FK)
